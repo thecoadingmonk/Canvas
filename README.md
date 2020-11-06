@@ -1,2 +1,2 @@
 # Canvas
-Created with CodeSandbox
+Simple canvas component demo with react
